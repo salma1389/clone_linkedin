@@ -1,0 +1,126 @@
+.leftside{
+   
+    background-color: #fff;
+    overflow: hidden;
+    width: 230px;
+    height: 350px;
+    border-radius: 10px;
+    margin-left: 85px;
+    position: relative;
+    box-shadow: 0 0 1px;
+}
+
+.cameraphoto{
+    border-radius:250px;
+     width:72px;
+     height:72px;
+    border-block-color: #fff;
+     border: 2px solid #fff;
+     margin: -38px auto 12px;
+}
+
+.textone{
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #191919;
+    font-weight: 600;
+}
+.textone :hover{
+    cursor: pointer;
+    text-decoration: underline;
+   
+}
+
+.texttwo{
+    color: #0a66c2;
+    margin-top: 4px;
+    font-size: 12px;
+    line-height: 1.33;
+    font-weight: 400;
+}
+.texttwo :hover{
+    cursor: pointer;
+    text-decoration: underline;
+    
+}
+ #blockone :hover{
+    
+    cursor: pointer;
+    background-color: #EBEBEB;
+    /* padding: 200 200 200 200; */
+}
+
+#blocktwo :hover{
+    cursor: pointer;
+    background-color: #EBEBEB;
+}
+
+#blockthree :hover{
+    cursor: pointer;
+    background-color: #EBEBEB;
+    /* padding-right: 150px; */
+}
+
+#line{
+   margin-top:10px;
+   margin-bottom: 10px;
+  
+}
+
+.main{
+   
+    background-color: #fff;
+    overflow: hidden;
+    width:540px;
+    height: 120px;
+    border-radius: 10px;
+    position: relative;
+    box-shadow: 0 0 1px;
+}
+
+.comm  :hover{
+    cursor: pointer;
+background-color: black;
+}
+
+.rightside{
+   
+    background-color: #fff;
+    overflow: hidden;
+    width:330px;
+    height: 390px;;
+    border-radius: 10px;
+    margin-right: 85px;
+    position: relative;
+    box-shadow: 0 0 1px;
+
+}
+
+.text{
+    font-size: 16px;
+    line-height: 1.5;
+    color: #191919;
+    font-weight: 600;
+    text-align: left;
+    margin-left: 10px;
+}
+
+
+#suivre{
+    color: #757575 ;
+    font-size: 18px;
+    font-weight: 700px;
+    border : solid 1px;
+    max-height: 30px;
+    max-width: 100px;
+    border-radius: 20px;
+    margin-left: 10px;
+    
+    
+}
+
+#suivre :hover{
+cursor: pointer;
+background-color: grey;
+}
